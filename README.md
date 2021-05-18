@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am a recent gradudate of Gonzaga University (Class of 2021)
-- I am currently learning ...
-- Web Development
+- I am currently learning web development
+- How to reach me:
+- Email: jalentacsiat@gmail.com
